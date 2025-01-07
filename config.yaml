@@ -11,3 +11,7 @@ blocks:
         background: "#61AFEF"
         properties:
           style: folder
+      - type: battery
+        style: powerline
+        foreground: "#ffffff"
+        background: "#61AFEF"
